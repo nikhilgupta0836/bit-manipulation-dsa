@@ -4,7 +4,7 @@
 // }
 // //
 
-
+ // new comment 
 //  clear the bit //
 // public class BitManipulation {
 
